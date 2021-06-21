@@ -1,4 +1,4 @@
-package com.duplicall.singleton;
+package com.duplicall.strategy;
 
 import com.duplicall.strategy.factory.StrategyFactory;
 import com.duplicall.strategy.template.Context;
